@@ -1,4 +1,2 @@
 # C-Kinematics
-C-Kinematics is a simple kinematic calculator designed to save time on basic calculations for basic Newtonian kinematic systems.
-## The Use of C-Kinematics
-C-Kinematics is useful for any students in a basic physical science class. 
+C-Kinematics is a simple kinematic calculator designed to save time on basic calculations for basic Newtonian kinematic systems licensed under the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) *This program is NOT designed for academic dishonesty in any way, shape, or form! Any cases of such are not my fault, and should be dealt with by school or university faculty to student(s) that use this program for such actions*.
